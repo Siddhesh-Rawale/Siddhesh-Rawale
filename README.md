@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Siddhesh-Rawale/Siddhesh-Rawale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hii 👋 I'm Siddhesh Rawale</h1>
+<h1>Hi there 👋 I'm Siddhesh Rawale</h1>
 # 💫 About Me:
 I'm currently working as a Java SpringBoot Angular Web Developer<br>
 
